@@ -11,6 +11,5 @@ function reverseString(message) {
     }
     return msg.join("");
 }
-
 console.log(reverseString("hello"));
 
